@@ -3,6 +3,9 @@
 <h1 align="center">Hi 👋, I'm Aleksey. </h1>
 <h3 align="center"> I'm always happy when my networks expands with new interesting people. Contact me :)</h3>
 <p align = "center"> 
+   <a href="mailto:aliakseipuchko@gmail.com">
+<img  src="/content/1.jfif" alt="Gmail" width=120px/>
+  </a>
   <a href = "https://www.linkedin.com/in/alex-puchko/">
     <img src="https://user-images.githubusercontent.com/61582763/135242596-9d7f796a-faa9-47fe-b0cb-2cfc04432def.png" alt = "LinkedIn Icon">
   </a>
