@@ -10,7 +10,8 @@
     <img src="/content/2.png" alt = "Github Icon" width=50px>
   </a>
   <a href="mailto:aliakseipuchko@gmail.com">
-<img alt="Gmail" src="/content/1.jfif" width=150px/>
+<img alt="Gmail" src="/content/1.jfif" width=120px/>
+  </a>
 </p>
 
 <!--
