@@ -7,10 +7,10 @@
     <img src="https://user-images.githubusercontent.com/61582763/135242596-9d7f796a-faa9-47fe-b0cb-2cfc04432def.png" alt = "LinkedIn Icon">
   </a>
   <a href = "https://github.com/AlekseyPuchko">
-    <img src="/content/2.png" alt = "Github Icon" width=50px>
+    <img src="/content/2.png" alt = "Github Icon" width=60px>
   </a>
     <a href="mailto:aliakseipuchko@gmail.com">
-   <img  src="/content/1.jpeg" alt="Gmail" width=90px/>
+   <img src="/content/1.jpeg" alt="Gmail" width=90px/>
   </a>
 </p>
 
