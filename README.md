@@ -5,8 +5,10 @@
   <a href = "https://www.linkedin.com/in/alex-puchko/">
     <img src="https://user-images.githubusercontent.com/61582763/135242596-9d7f796a-faa9-47fe-b0cb-2cfc04432def.png" alt = "LinkedIn Icon">
   </a>
+  <a href = "https://github.com/AlekseyPuchko">
+    <img src="/content/2.png" alt = "Github Icon">
+  </a>
 </p>
-<img src="/content/2.png" align = "right" alt="my_photo" width=50px>
 
 <!--
 **AlekseyPuchko/AlekseyPuchko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
