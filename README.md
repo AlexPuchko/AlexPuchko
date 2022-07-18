@@ -14,7 +14,7 @@
   </a>
    </a>
     <a href="https://www.instagram.com/alex_puchko/">
-   <img src="/content/4.jpeg" alt="Instagram" width=80px/>
+   <img src="/content/4.png" alt="Instagram" width=80px/>
   </a>
 </p>
 
