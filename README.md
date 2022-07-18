@@ -12,6 +12,10 @@
     <a href="mailto:aliakseipuchko@gmail.com">
    <img src="/content/1.jpeg" alt="Gmail" width=80px/>
   </a>
+   </a>
+    <a href="https://www.instagram.com/alex_puchko/">
+   <img src="/content/4.jpeg" alt="Instagram" width=80px/>
+  </a>
 </p>
 
 <!--
