@@ -4,10 +4,10 @@
 <h3 align="center"> I'm always happy when my networks expands with new interesting people. Contact me :)</h3>
 <p align = "center"> 
   <a href = "https://www.linkedin.com/in/alex-puchko/">
-    <img src="/content/3.png" alt = "LinkedIn Icon" width=70px>
+    <img src="/content/3.png" alt = "LinkedIn Icon" width=60px>
   </a>
   <a href = "https://github.com/AlekseyPuchko">
-    <img src="/content/2.png" alt = "Github Icon" width=50px>
+    <img src="/content/2.png" alt = "Github Icon" width=40px>
   </a>
     <a href="mailto:aliakseipuchko@gmail.com">
    <img src="/content/1.jpeg" alt="Gmail" width=80px/>
