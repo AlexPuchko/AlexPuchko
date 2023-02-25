@@ -4,16 +4,16 @@
 <h3 align="center"> I'm always happy when my networks expands with new interesting people. Contact me :)</h3>
 <h4 align="center"> I am a QA Engineer with 1.5+ years of experience (manual + automation testing). Experience with IP Networking protocols and standards, knowledge of TCP/IP, UDP, configuration and testing VPN services (OpenVPN, IPSec) and etc.</h4>
 <p align = "center"> - Responsible for story verification, functional manual GUI and backend testing;</p>
-- Development and creation of test documentation: writing test cases, bug reports, checklists;
-- Participation in product improvement and communication with the team, retrospectives;
-- API testing (REST, SOAP);
-- Virtualization software: VirtualBox, VMware
-- Test automation (JS, Python, internal Unit test framework);
-- CI/CD: Jenkins;
-- Version Control Systems (Git - https://github.com/AlekseyPuchko);
-- Web (DevTools, HTML/CSS, XML/JSON);
-- Management Tools (Jira, Confluence, Google doc);
-- OS: Linux, Windows, MacOS.
+<p align = "center"> - Development and creation of test documentation: writing test cases, bug reports, checklists;</p>
+<p align = "center"> - Participation in product improvement and communication with the team, retrospectives;</p>
+<p align = "center"> - API testing (REST, SOAP);</p>
+<p align = "center"> - Virtualization software: VirtualBox, VMware;</p>
+<p align = "center"> - Test automation (JS, Python, internal Unit test framework);</p>
+<p align = "center"> - CI/CD: Jenkins;</p>
+<p align = "center"> - Version Control Systems (Git - https://github.com/AlexPuchko);</p>
+<p align = "center"> - Web (DevTools, HTML/CSS, XML/JSON);</p>
+<p align = "center"> - Management Tools (Jira, Confluence, Google doc);</p>
+<p align = "center"> - OS: Linux, Windows, MacOS.</p>
 <h4 align="center"> And of course, I'm fond of Web development</h4>
 <p align = "center"> 
   <a href = "https://www.linkedin.com/in/alex-puchko/">
