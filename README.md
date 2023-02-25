@@ -6,7 +6,7 @@
   <a href = "https://www.linkedin.com/in/alex-puchko/">
     <img src="/content/3.png" alt = "LinkedIn Icon" width=60px>
   </a>
-  <a href = "https://github.com/AlekseyPuchko">
+  <a href = "https://github.com/AlexPuchko">
     <img src="/content/2.png" alt = "Github Icon" width=40px>
   </a>
     <a href="mailto:aliakseipuchko@gmail.com">
