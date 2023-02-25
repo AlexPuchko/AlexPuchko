@@ -1,6 +1,6 @@
 <head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></head>
 <img src="/content/head-1.jfif">
-<h1 align="center">Hi 👋, I'm Aleksey. </h1>
+<h1 align="center">Hi 👋, I'm Aliaksei. </h1>
 <h3 align="center"> I'm always happy when my networks expands with new interesting people. Contact me :)</h3>
 <p align = "center"> 
   <a href = "https://www.linkedin.com/in/alex-puchko/">
