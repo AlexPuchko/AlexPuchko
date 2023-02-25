@@ -12,8 +12,8 @@
 <p align = "center"> - CI/CD: Jenkins;</p>
 <p align = "center"> - Version Control Systems (Git - https://github.com/AlexPuchko);</p>
 <p align = "center"> - Web (DevTools, HTML/CSS, XML/JSON);</p>
-<p align = "center"> - Management Tools (Jira, Confluence, Google doc);</p>
-<p align = "center"> - OS: Linux, Windows, MacOS.</p>
+* - Management Tools (Jira, Confluence, Google doc);
+* - OS: Linux, Windows, MacOS.
 <h4 align="center"> And of course, I'm fond of Web development</h4>
 <p align = "center"> 
   <a href = "https://www.linkedin.com/in/alex-puchko/">
