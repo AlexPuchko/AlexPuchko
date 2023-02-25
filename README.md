@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Alex. </h1>
 <h3 align="center"> I'm always happy when my networks expands with new interesting people. Contact me :)</h3>
 <h4 align="center"> I am a QA Engineer with 1.5+ years of experience (manual + automation testing). Experience with IP Networking protocols and standards, knowledge of TCP/IP, UDP, configuration and testing VPN services (OpenVPN, IPSec) and etc.</h4>
-- Responsible for story verification, functional manual GUI and backend testing;
+<p align = "center"> - Responsible for story verification, functional manual GUI and backend testing;</p>
 - Development and creation of test documentation: writing test cases, bug reports, checklists;
 - Participation in product improvement and communication with the team, retrospectives;
 - API testing (REST, SOAP);
