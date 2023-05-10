@@ -40,7 +40,7 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/jenkins.svg"></code>
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=AlexPuchko&count_private=true&show_icons=true" alt="AlekseyPuchko" />
+<img align="right"  src="https://github-readme-stats.vercel.app/api?username=AlexPuchko&count_private=true&show_icons=true" alt="AliakseiPuchko" />
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/postman.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/jira.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/virtualbox.svg"></code>
@@ -50,5 +50,5 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>
 
 <!--
-**AlexPuchko/AlexPuchko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AliakseiPuchko/AlexPuchko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
