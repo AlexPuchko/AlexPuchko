@@ -50,5 +50,5 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>
 
 <!--
-**AlekseyPuchko/AlekseyPuchko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AlexPuchko/AlexPuchko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
