@@ -2,7 +2,7 @@
 <img src="/content/head-1.jfif">
 <h1 align="center">Hi 👋, I'm Alex. </h1>
 <h3 align="center"> I'm always happy when my networks expands with new interesting people. Contact me :)</h3>
-<h4 align="center"> I'm a QA Engineer with 3+ years of experience (manual + automation testing ~70/30%). Experience in testing desktop applications (Linux and Windows), web, and cloud-based applications</h4>
+<h4 align="center"> Detail-oriented QA Engineer with over 3 years of experience in manual and automation testing (~70/30%) of desktop (Linux and Windows), web, and cloud-based applications, and more than 6 years of professional experience in the IT industry.</h4>
 <p align = "left"> 
 - Responsible for story verification, functional manual GUI and backend testing;<br>
 - Development and creation of test documentation: writing test cases, bug reports, checklists;<br>
