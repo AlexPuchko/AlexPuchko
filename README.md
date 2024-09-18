@@ -2,7 +2,7 @@
 <img src="/content/head-1.jfif">
 <h1 align="center">Hi 👋, I'm Alex. </h1>
 <h3 align="center"> I'm always happy when my networks expands with new interesting people. Contact me :)</h3>
-<h4 align="center"> I am a QA Engineer with 2.5+ years of experience (manual + automation testing). Experience with IP Networking protocols and standards, knowledge of TCP/IP, UDP, configuration and testing VPN services (OpenVPN, IPSec) and etc.</h4>
+<h4 align="center"> I'm a QA Engineer with 3+ years of experience (manual + automation testing ~70/30%). Experience in testing desktop applications (Linux and Windows), web, and cloud-based applications</h4>
 <p align = "left"> 
 - Responsible for story verification, functional manual GUI and backend testing;<br>
 - Development and creation of test documentation: writing test cases, bug reports, checklists;<br>
@@ -10,10 +10,10 @@
 - API testing (REST, SOAP);<br>
 - Virtualization software: VirtualBox, VMware;<br>
 - Test automation (JS, Python, internal Unit test framework);<br>
-- CI/CD: Jenkins;<br>
-- Version Control Systems (Git - https://github.com/AlexPuchko);<br>
+- CI/CD: Jenkins, TeamCity;<br>
+- Version Control Systems (Git - https://github.com/AlexPuchko), TortoiseSVN;<br>
 - Web (DevTools, HTML/CSS, XML/JSON);<br>
-- Management Tools (Jira, Confluence, Google doc);<br>
+- Management Tools (Jira, Confluence, Google doc, TestLink, TestRail);<br>
 - OS: Linux, Windows, MacOS.</p>
 <h4 align="center"> And of course, I'm fond of Web development</h4>
 <p align = "center"> 
